@@ -126,15 +126,3 @@ Scraping data from LinkedIn can violate their Terms of Service. This tool is des
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
-
-### Next Steps After Adding the README
-
-1. **Save and Commit:** Save the file in your code editor, then run:
-   ```cmd
-   git add README.md
-   git commit -m "docs: add detailed community README"
-   git push
-
-```
