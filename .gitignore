@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Plasmo build & cache
+.plasmo/
+build/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env*.local

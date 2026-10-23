@@ -1,0 +1,24 @@
+{
+  "name": "linkcraft",
+  "displayName": "LinkCraft",
+  "version": "0.0.1",
+  "description": "LinkedIn data scraping, Gemini AI custom invites, and advanced search.",
+  "author": "Your Name",
+  "packageManager": "npm",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "package": "plasmo package"
+  },
+  "dependencies": {
+    "plasmo": "^0.90.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
